@@ -30,7 +30,7 @@ public class MainActivity extends AppCompatActivity {
         if(savedInstanceState != null){
             boolean isVisible = savedInstanceState.getBoolean("reply_visible");
             if(isVisible){
-                String reply_text = savedInstanceState.getString("reply_text")
+                String reply_text = savedInstanceState.getString("reply_text");
                 mReplyHeadTextView.setVisibility(View.VISIBLE);
                 mReplyTextView.setText(reply_text);
                 mReplyTextView.setVisibility(View.VISIBLE);
