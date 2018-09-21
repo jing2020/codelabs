@@ -23,7 +23,7 @@
                                           <PersistentState>
                                             <option name="values">
                                               <map>
-                                                <entry key="url" value="jar:file:/Applications/Android%20Studio.app/Contents/plugins/android/lib/android.jar!/images/material_design_icons/maps/ic_local_grocery_store_black_24dp.xml" />
+                                                <entry key="url" value="jar:file:/C:/pbulsink/Android/Android%20Studio/plugins/android/lib/android.jar!/images/material_design_icons/toggle/ic_star_black_24dp.xml" />
                                               </map>
                                             </option>
                                           </PersistentState>
@@ -33,7 +33,7 @@
                                   </option>
                                   <option name="values">
                                     <map>
-                                      <entry key="outputName" value="ic_shopping_cart" />
+                                      <entry key="outputName" value="ic_favourites" />
                                       <entry key="theme" value="HOLO_DARK" />
                                     </map>
                                   </option>
